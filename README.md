@@ -1,6 +1,6 @@
-#WebSearchEngine
+# WebSearchEngine
 
-Tech Stack includes JAVA, JS, BootStrap and Jquery. 
+## Tech Stack includes JAVA, JS, BootStrap and Jquery. 
 
 Modules and algorithms: 
  1. Web Crawler - which is gathering the string tokens from a URL recursively. Currently, we have limited the scope of URL crawling nodes to 10,000. But can easily be changed. 
